@@ -1,6 +1,6 @@
 # github-workflow assignment
 
-Name: _______________________________________
+Name: _______________Justin Hull________________________
 
 ## DUE: 31 Aug 2017
 
