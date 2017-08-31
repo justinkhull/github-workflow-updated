@@ -1,0 +1,32 @@
+/*aboutMeStyle.css*/
+
+body {
+	background-color: lightgray;
+}
+
+#wrapper {
+	width: 80%;
+	margin: auto;
+	background-color: lightyellow;
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-bottom: 5px;
+}
+
+h2 {
+	text-align: center;
+	font-family: verdana, tahoma, sans-serif;
+}
+
+#profilePic {
+	display: block;
+	margin: auto;
+}
+
+p {
+	font-family: verdana tahoma, sans-serif;
+}
+
+li {
+	font-family: verdana tahoma, sans-serif;
+}	
